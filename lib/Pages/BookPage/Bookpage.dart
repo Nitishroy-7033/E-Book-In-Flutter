@@ -13,6 +13,7 @@ class BookPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     PdfController pdfController = Get.put(PdfController());
+    
     return Scaffold(
       appBar: AppBar(
         leading: BackButton(
@@ -38,6 +39,7 @@ class BookPage extends StatelessWidget {
       ),
       body: SfPdfViewer.network(
         bookUrl,
+        // 'https://drive.google.com/uc?export=download&id=1QvBf2rx0CT___J6XgZQsZgooClg1vCpj',         
         key: pdfController.pdfViewerKey,
       ),
     );

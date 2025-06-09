@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "219275827080",
-    "project_id": "e-book-95162",
-    "storage_bucket": "e-book-95162.firebasestorage.app"
+    "project_number": "482431624024",
+    "project_id": "ebook-f2d0e",
+    "storage_bucket": "ebook-f2d0e.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:219275827080:android:71985db41f8edb63060c3d",
+        "mobilesdk_app_id": "1:482431624024:android:45d7de2b01ff94638a3b2d",
         "android_client_info": {
           "package_name": "com.example.e_book"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBOgHi2SdylF68yT98pHh1SwjswCrYogP8"
+          "current_key": "AIzaSyCM4yDU4Pa1Qo-4K3-oG1-RMVuFPmYMOcU"
         }
       ],
       "services": {
